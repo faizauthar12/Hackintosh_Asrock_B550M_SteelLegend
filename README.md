@@ -7,7 +7,7 @@
 | Mobo        | ASRock B550M Steel Legend           |
 | RAM         | 16GB(Team Elite Black Plus @3200Mhz)|
 | GPU1        | Nvidia GTX 750Ti (disabled)         |
-| GPU1        | Nvidia GT 710                       |
+| GPU2        | Nvidia GT 710                       |
 | WiFi        | DW1820A                             |
 
 ## Working
